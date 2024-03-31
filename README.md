@@ -1,3 +1,6 @@
+# Go on 'Google AI Studio' and get your API_KEY and 
+# replace YOUR_API_KEY constent with API_KEY in Config/gemini.js file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
